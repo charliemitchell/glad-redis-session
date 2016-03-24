@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/charliemitchell/glad-redis-session.git"
+    "url": "https://github.com/charliemitchell/glad-redis-session.git"
   },
   "peerDependencies" : {
     "glad" : ">= 0.6.0"
