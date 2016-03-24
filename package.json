@@ -1,0 +1,19 @@
+{
+  "name": "glad-redis-session",
+  "version": "0.1.0",
+  "description": "A Simple Redis Session Implementation for the Glad JS Framework.",
+  "author": "Charlie Mitchell <charliesemailis@gmail.com>",
+  "license": "MIT",
+  "keywords" : ["glad", "glad js", "glad plugins", "redis", "session"],
+  "bugs": {
+    "url": "http://github.com/charliemitchell/glad-redis-session",
+    "email": "charliesemailis@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/charliemitchell/glad-redis-session.git"
+  },
+  "peerDependencies" : {
+    "glad" : ">= 0.6.0"
+  }
+}
